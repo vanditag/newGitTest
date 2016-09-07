@@ -1,3 +1,2 @@
 # newGitTest
-
 Hello world!

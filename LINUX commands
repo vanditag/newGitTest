@@ -1,0 +1,5 @@
+wget <url> - to download a file from the given url
+cd - change directory
+mkdir - make directory
+rmdir - remove empty directory
+rm - remove file

@@ -4,3 +4,4 @@ mkdir - make directory
 rmdir - remove empty directory
 rm - remove file
 pwd - to see current directory
+pi pfreeze - to see all the libraries that are currently installed

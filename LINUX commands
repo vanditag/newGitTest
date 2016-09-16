@@ -3,3 +3,4 @@ cd - change directory
 mkdir - make directory
 rmdir - remove empty directory
 rm - remove file
+pwd - to see current directory

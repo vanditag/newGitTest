@@ -1,1 +1,3 @@
 git reset - it will unstage the file. Staging is after you have added the file but not yet committed.
+git fetch - it will get the changes from the central repository to origin/local
+git rebase - it will get the changes from the origin/local to your local directory

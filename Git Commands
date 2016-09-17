@@ -1,0 +1,1 @@
+git reset - it will unstage the file. Staging is after you have added the file but not yet committed.
